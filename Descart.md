@@ -1,0 +1,4 @@
+- Books
+	- Currently reading
+		- [[Descartes, Meditations]]
+		- 

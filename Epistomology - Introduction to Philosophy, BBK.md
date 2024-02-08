@@ -1,0 +1,43 @@
+- **Week 1**: Terminology and scepticism
+	- **Terminology**
+		- **Epistemic**: relating to knowledge
+		- **Doxastic**: relating to belief
+		- **Belief**: What we think is true
+		- **True belief**: When what we believe is true
+		- **Knowledge**: When we are justified in our beliefs
+		- **Foundational**: When there is an axiom to our knowledge
+		- **Coherentist**: We only think what is true, is what makes sense to other things that we think are true
+		- **A priori**: Something that is true without empirical evidence
+	- Why is epistemology important?
+		- If we want to make change in the world we need to have a good representation of it
+		- We need theory about the world, to make practical changes
+		- We need good reasons for the practical changes we mak
+	- **General concepts**
+		- We believe what we think is true, this never changes
+		- What we think is true, does change
+	- Descartes
+		- **Funnel for modern thoughts**: Themes in philosophy are re-organised, are more appealing to the modern audience, by being based on science
+		- **Question for the modern world**: How to reconstruct our knowledge of the world?
+	- Scepticism
+		- All we can know is that there is perception / experience
+- **Week 2**: What could knowledge be and JTB
+	- We can ask:
+		- What can i know
+		- What is knowledge
+	- What is knowledge in other words is:
+		- Conceptual analysis
+		- Explication
+	- Conceptual analysis can be decided into 
+		1. How is the concept of knowledge used
+		2. What could knowledge be
+	- JTB attempts to clarify what knowledge could be
+	- JTB problem
+		- knowledge vs justified,
+		- If they differ in meaning then an example can be used to break it
+		- If they are the same then we can never have knowledge, and just be justified
+- **Week 3**: What can we be justified to believe? iInternalism and Externalism
+	- Justification leads us to
+		- Internalism
+		- Externalism
+	- Problems with interpretation of justification, does it include truth 
+	- 

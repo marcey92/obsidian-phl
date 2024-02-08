@@ -1,0 +1,130 @@
+- **My plan for week 1**
+	- Read I and II
+	- Follow [[How to study]] 
+	- Write outline below for both sections
+	- Write out and answer reading questions
+	- Think about seminar questions
+
+- **Like to do**
+	- Read last chapter
+	- Write outline below for each chapter
+
+**synopsis** Is something like this
+- **Chapter 1**
+	- **Overview** Descartes argues why we should doubt and introduces the Evil Demon
+		- Doubt what we think is true
+			- We have been wrong before
+			- Our senses sometimes deceive us
+			- We could be asleep and dreaming
+			- Our faculties for reason could be erroneous 
+		- Method of doubt
+			- Do not believe what we are not sure is true
+			- Examine what we are sure is true to find a reason to doubt it
+		- Evil Demon
+			- A simpler way of reaching the conclusion that everything should be doubted
+			- A deceiver who presents illusions to the mind
+			- Nothing that can be sensed should be trusted
+			- Invented so that we can be sure nothing we accidentally believe can enter into our reasoning
+		- Mind vs Matter
+			- Mind is not doubted 
+			- Matter / external things are doubted
+		- **Confusion?**
+			- Descartes appears to reach the conclusion that even our faculties for reason could be erroneous, I don’t see how he can then reach the conclusion that he should only doubt what we perceive as external
+				- “It is possible that God has wished that I should be deceived every time I add two and three or count the sides of a square, or form some judgment even simpler”
+				- “I will suppose that the heavens, the air, the earth, colours, shapes, sounds and all external things that we see, are only illusions and deceptions”
+		- Weakness 
+			- What about the mind? Why are we not doubting the language, logic and our ability to create conclusions?
+- **Chapter 2**
+	- **Overview2** Descartes discovers he exists by perceiving his thinking mind, and introduces it’s attributes, and shows that the mind does not depend on anything else
+	- Terminology
+		- **Mind**: A thinking thing
+		- **Thinking**: What the mind does
+		- **Imagination**: Contemplating a corporal body
+	- Fixed and assured
+		- The properties something must have for Descartes to be certain of it
+	- “I am, I exist”
+		- The seed from which all other things depend on
+		- He exists as long as he is thinking: “He can never cause me to be nothing, as long as I think”
+	- Humans mind
+		- Properties: doubting, perceiving, affirming, desiring, willing, not willing, imagining and feeling
+	- Argument for his existence 
+		- Intuition > logic / reason
+		- Descartes wishes to place within each of us the same foundation of knowledge
+		- Descartes does not provide any direct evidence for existence, instead he asks us to contemplate what he says and come to our own conclusion about our own personal existence. Is it not self evident that we do exist, and we know that through quality of our experience, which are the faculties of our mind?
+	- Matter is not fixed or assured
+		- The properties of wax are ever changing: “flexible and malleable”
+		- It’s essence we can contemplate, which is our understanding of wax
+		- It’s essence, or our understanding does not change
+	- Style of argument 
+		- Repeatedly returns to the realisation of the certainty of his existance
+		- Does not state propositions that he builds upon to reach that realisation
+		- His existance is the primary proposition
+	- **Confusion**
+		- Should he really be saying “There is experience, experience exists”?
+		- The use for he term “I” hides a lot of meaning? But what?
+		- Experience exists, and identification with that experience exists?
+		- It’s possible to imagine someone who does’t identify with their experience, how does one draw the line between which one should identify with?
+		- If I was to concede that experience does exists? I don’t see how the identification with that arises, other then that we can say with more certainty it’s you experiencing this because I’m not sure of your existance, but by saying it’s not you, it must be me?
+
+
+In our time used the terms qualities vs quantities… It is heavy vs There is one of me? 
+	
+
+
+	- General Structure
+		- What can I be sure of?
+		- I exist
+		- What am I?
+		- A thinking thing
+		- What does a thinking thing do?
+		- Are the things that I think do not exist, just different to me?
+	- The questions that are raised and answered through the narative
+			- What can I be sure of? 
+				- That I exist
+			- Do I have any of the properties a body has?
+				- No, I have no corporal position, I occupy no space
+			- Do I have any of the properties of a soul?
+				- Yes, I can think
+			- What am I? 
+				- A thinking thing
+			- Am I more than that?
+				- ?
+			- Can I use my imagination to find out what I am?
+				- No, imagination has not got me this far, it is not through imagination that I see I exist, it will not help me here
+			- What is a thinking thing? 
+				- Something that doubts, percieves, affirms, desires, wills, not wills, imagines
+			- What proof is there that I am a thinking being?
+				- That I think when asleep and awake
+				- That I think when being deceived or not
+			- Why can I not be as sure of corporal objects, as I am of my mind?
+				- Wax
+		- 
+		- “I am, I exist”
+			- “I can never be nothing, as long as I think I am something”
+			- If I think I am being deceived, I exist
+			- If I think I am not being deceived, I exist
+			- By conceiving something I exist, even if what I conceive is false
+		- Descartes uses the faculties needed to be sceptic to prove that we can not be sceptic of at least something
+					- If finding that nothing can be known, at least that can be known, and it can be known by me
+		- But what is the thing that I am? or What exists?
+		- “Not imprudently to take some other object as myself”
+		- What is it that I thought was true, but is not?
+			- The body
+			- The soul
+		- Human mind
+		- Why does thought exist?
+					- It is clear and distinct
+				- Self evident
+			- Why are corporal objects not clear and distinct?
+				- Objects change shape, colour, texture etc and yet remain the same object
+				- They are extended, flexible and maluable
+			- Wax
+			- Corporal objects
+				- 
+			- **Questions**
+				- Does being self aware depend on anything else?
+				- Why could I not be imagining thought?
+		- **Weaknesses**
+			- One should really say, it is the conceiving that I can be sure to exist, not that I exist because of it
+			- What does Descartes mean by ”I”, why “I am”, why not “It is”
+			- What can not be explained is nous.. thinking takes it’s place?
