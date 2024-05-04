@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "294fd0ab1f6a795f",
+    "id": "ab70246841fa9f18",
     "type": "split",
     "children": [
       {
-        "id": "4237d7f9d8307d93",
+        "id": "30ae5ed46f9e41ea",
         "type": "tabs",
         "children": [
           {
-            "id": "d3429274bbe4e457",
+            "id": "64ffb66ad74da598",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Being and Time.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1007c5099f22a31e",
+    "id": "a925665a80ab880e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "aedaaa75cb8a8354",
+        "id": "2e9cfcfb3572c408",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +39,7 @@
         }
       },
       {
-        "id": "2b8ce0d241ce33d7",
+        "id": "c9334103f3f133d5",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +54,7 @@
         }
       },
       {
-        "id": "5b521d2b0bcd1f8a",
+        "id": "726319fe31988e0d",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +65,7 @@
         }
       },
       {
-        "id": "20000612c01db6a4",
+        "id": "3dfb846498a5b7d7",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -69,19 +73,19 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
-    "id": "01ee088a9f3ba9dd",
+    "id": "0701333d05f1527b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "87c1cecc9744e799",
+        "id": "0b4431cf16467bf2",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Being and Time.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,22 +97,25 @@
         }
       },
       {
-        "id": "7398116d863dacc6",
+        "id": "e9976670f4c3d4bd",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Being and Time.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "cc788a145a622f61",
+        "id": "a90126b71a12a502",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Being and Time.md"
+          }
         }
       }
     ],
@@ -124,19 +131,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3429274bbe4e457",
+  "active": "64ffb66ad74da598",
   "lastOpenFiles": [
-    "Consequentialism and Feminist Ethics.md",
-    "Epistomology - Introduction to Philosophy, BBK.md",
+    "Being and Time.md",
+    "3. Texts/Consequentialism and Feminist Ethics.md",
+    "3. Texts",
     "Untitled.md",
-    "Ethics – Introduction to Philosophy, BBK.md",
+    "3. Texts/Eden Lin, How to Use the Experience Machine.md",
+    "1. Philosophers/Descartes.md",
+    "1. Philosophers/Neitzsche.md",
+    "1. Philosophers",
+    "What does Nietzsche mean by Ressentiment? What role, if any, does it play in the ‘slave revolt’ in morality?.md",
     "How to study.md",
-    "Introduction to Philosophy Structure, BBK.md",
-    "Eden Lin, How to Use the Experience Machine.md",
-    "Internalise Defended.md",
-    "Descartes, Meditations.md",
-    "Metaphysics - Introduction to Philosophy.md",
-    "Descart.md",
-    "README.md"
+    "2. Books/Descartes, Meditations.md",
+    "2. Books",
+    "qrcode.png",
+    "4. BBK/Epistemology - Introduction to Philosophy, bbk.md",
+    "4. BBK/Politics - Introduction to Philosophy, BBK.md",
+    "4. BBK/Introduction to Philosophy - Structure, bbk.md",
+    "4. BBK/Ethics – Introduction to Philosophy, bbk.md",
+    "4. BBK/Metaphysics - Introduction to Philosophy.md",
+    "4. BBK/Nietzche, bbk.md",
+    "4. BBK",
+    "1. Philosophers/Philosophers.md",
+    "README.md",
+    "Internalise Defended.md"
   ]
 }
