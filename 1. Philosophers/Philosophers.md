@@ -1,0 +1,3 @@
+### Modern
+[[Descartes]]
+[[Neitzsche]]

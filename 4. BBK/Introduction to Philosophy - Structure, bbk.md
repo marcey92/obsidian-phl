@@ -1,7 +1,8 @@
 Notes:
-- [[Ethics – Introduction to Philosophy, BBK]]
-- [[Epistomology - Introduction to Philosophy, BBK]]
-
+- [[Ethics – Introduction to Philosophy, bbk]]
+- [[Epistemology - Introduction to Philosophy, bbk]]
+- [[Metaphysics - Introduction to Philosophy]]
+- [[Politics - Introduction to Philosophy, BBK]]
 # Course Structure 
 **Topics**: Epistomology, Ethics, Metaphysics, Politics 
 **Moodle**: https://moodle.bbk.ac.uk/course/view.php?id=42668
