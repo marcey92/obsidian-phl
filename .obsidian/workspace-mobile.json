@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64ffb66ad74da598",
+            "id": "a4d88b99c47921de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Being and Time.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16a3b8cccae34030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. BBK/C20 Seminar Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Being and Time.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Being and Time.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Being and Time.md"
+            "file": "Untitled.md"
           }
         }
       }
@@ -131,9 +143,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64ffb66ad74da598",
+  "active": "a4d88b99c47921de",
   "lastOpenFiles": [
-    "Being and Time.md",
+    "4. BBK/C20.md",
+    "qrcode.png",
+    "3. Texts/Being and Time.md",
+    "4. BBK/C20 Seminar Questions.md",
     "3. Texts/Consequentialism and Feminist Ethics.md",
     "3. Texts",
     "Untitled.md",
@@ -141,11 +156,10 @@
     "1. Philosophers/Descartes.md",
     "1. Philosophers/Neitzsche.md",
     "1. Philosophers",
-    "What does Nietzsche mean by Ressentiment? What role, if any, does it play in the ‘slave revolt’ in morality?.md",
+    "4. BBK/What does Nietzsche mean by Ressentiment? What role, if any, does it play in the ‘slave revolt’ in morality?.md",
     "How to study.md",
     "2. Books/Descartes, Meditations.md",
     "2. Books",
-    "qrcode.png",
     "4. BBK/Epistemology - Introduction to Philosophy, bbk.md",
     "4. BBK/Politics - Introduction to Philosophy, BBK.md",
     "4. BBK/Introduction to Philosophy - Structure, bbk.md",
