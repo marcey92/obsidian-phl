@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. BBK/C20 Seminar Questions.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "4. BBK/C20 Seminar Questions.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "4. BBK/C20 Seminar Questions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "4. BBK/C20 Seminar Questions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "4. BBK/C20 Seminar Questions.md"
           }
         }
       }
@@ -142,19 +142,21 @@
   },
   "active": "a4d88b99c47921de",
   "lastOpenFiles": [
+    "3. Texts/Being and Time.md",
+    "How to study.md",
+    "Internalise Defended.md",
+    "README.md",
+    "Untitled.md",
     "4. BBK/C20.md",
     "qrcode.png",
-    "3. Texts/Being and Time.md",
     "4. BBK/C20 Seminar Questions.md",
     "3. Texts/Consequentialism and Feminist Ethics.md",
     "3. Texts",
-    "Untitled.md",
     "3. Texts/Eden Lin, How to Use the Experience Machine.md",
     "1. Philosophers/Descartes.md",
     "1. Philosophers/Neitzsche.md",
     "1. Philosophers",
     "4. BBK/What does Nietzsche mean by Ressentiment? What role, if any, does it play in the ‘slave revolt’ in morality?.md",
-    "How to study.md",
     "2. Books/Descartes, Meditations.md",
     "2. Books",
     "4. BBK/Epistemology - Introduction to Philosophy, bbk.md",
@@ -164,8 +166,6 @@
     "4. BBK/Metaphysics - Introduction to Philosophy.md",
     "4. BBK/Nietzche, bbk.md",
     "4. BBK",
-    "1. Philosophers/Philosophers.md",
-    "README.md",
-    "Internalise Defended.md"
+    "1. Philosophers/Philosophers.md"
   ]
 }
