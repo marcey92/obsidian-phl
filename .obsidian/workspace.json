@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internalise Defended.md",
+                "file": "4. BBK/C20 Seminar Questions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dfe1985fff615ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. BBK/C20 Seminar Questions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "20955aabaabd080a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. BBK/Heidegger Standford.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internalise Defended.md",
+                "file": "4. BBK/Heidegger Standford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internalise Defended.md",
+                "file": "4. BBK/Heidegger Standford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internalise Defended.md"
+                "file": "4. BBK/Heidegger Standford.md"
               }
             }
           }
@@ -188,29 +212,31 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "f61e9319e32ba50a",
   "lastOpenFiles": [
+    "4. BBK/C20 Seminar Questions.md",
+    "4. BBK/Heidegger Standford.md",
+    "4. BBK/C20 Essay Questions.md",
+    "4. BBK/Epistemology - Introduction to Philosophy, bbk.md",
+    "4. BBK/Metaphysics - Introduction to Philosophy.md",
+    "4. BBK/Nietzche, bbk.md",
+    "4. BBK/Politics - Introduction to Philosophy, BBK.md",
+    "4. BBK/What does Nietzsche mean by Ressentiment? What role, if any, does it play in the ‘slave revolt’ in morality?.md",
+    "Internalise Defended.md",
+    "3. Texts/Being and Time.md",
     "qrcode.png",
     "README.md",
     "Untitled.md",
     "What does Nietzsche mean by Ressentiment? What role, if any, does it play in the ‘slave revolt’ in morality?.md",
     "Essays",
-    "4. BBK/Nietzche, bbk.md",
-    "4. BBK/Epistemology - Introduction to Philosophy, bbk.md",
     "4. BBK/Introduction to Philosophy - Structure, bbk.md",
     "1. Philosophers/Philosophers.md",
-    "4. BBK/Politics - Introduction to Philosophy, BBK.md",
-    "4. BBK/Metaphysics - Introduction to Philosophy.md",
     "4. BBK/Ethics – Introduction to Philosophy, bbk.md",
     "How to study.md",
-    "Internalise Defended.md",
     "3. Texts/Consequentialism and Feminist Ethics.md",
     "3. Texts",
     "2. Books",
