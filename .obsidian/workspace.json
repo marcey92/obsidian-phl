@@ -16,7 +16,9 @@
                 "file": "4. BBK/Nietzche, bbk.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Nietzche, bbk"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "4. BBK/Nietzche, bbk.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Nietzche, bbk"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Untitled.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "4. BBK/C20 Seminar Questions.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "C20 Seminar Questions"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "4. BBK/C20 Seminar Questions.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "C20 Seminar Questions"
             }
           },
           {
@@ -73,10 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. BBK/Heidegger Standford.md",
+                "file": "1. Philosophers/Heidegger/Heidegger Standford.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Heidegger Standford"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "4. BBK/Nietzche, bbk.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Nietzche, bbk"
             }
           }
         ],
@@ -112,7 +126,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -127,7 +143,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -135,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -158,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. BBK/Heidegger Standford.md",
+                "file": "1. Philosophers/Heidegger/Heidegger Standford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +186,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Heidegger Standford"
             }
           },
           {
@@ -175,10 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. BBK/Heidegger Standford.md",
+                "file": "1. Philosophers/Heidegger/Heidegger Standford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Heidegger Standford"
             }
           },
           {
@@ -189,7 +213,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -198,8 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. BBK/Heidegger Standford.md"
-              }
+                "file": "1. Philosophers/Heidegger/Heidegger Standford.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Heidegger Standford"
             }
           }
         ]
@@ -218,12 +246,13 @@
   },
   "active": "f61e9319e32ba50a",
   "lastOpenFiles": [
+    "1. Philosophers/Heidegger",
+    "4. BBK/Nietzche, bbk.md",
     "4. BBK/C20 Seminar Questions.md",
-    "4. BBK/Heidegger Standford.md",
+    "1. Philosophers/Heidegger/Heidegger Standford.md",
     "4. BBK/C20 Essay Questions.md",
     "4. BBK/Epistemology - Introduction to Philosophy, bbk.md",
     "4. BBK/Metaphysics - Introduction to Philosophy.md",
-    "4. BBK/Nietzche, bbk.md",
     "4. BBK/Politics - Introduction to Philosophy, BBK.md",
     "4. BBK/What does Nietzsche mean by Ressentiment? What role, if any, does it play in the ‘slave revolt’ in morality?.md",
     "Internalise Defended.md",
